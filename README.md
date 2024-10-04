@@ -12,7 +12,7 @@ I specialize in creating dynamic and visually appealing web applications. My mai
 
 - **Front-End Development**: JavaScript, HTML, CSS
 - **Version Control**: Git, GitHub
-- **Back-End **: Node.js, SQLite
+- **Back-End**: Node.js, SQLite
 - **Frameworks**: Express
 
 ## 📖Education 
