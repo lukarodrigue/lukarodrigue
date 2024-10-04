@@ -12,6 +12,8 @@ I specialize in creating dynamic and visually appealing web applications. My mai
 
 - **Front-End Development**: JavaScript, HTML, CSS
 - **Version Control**: Git, GitHub
+- **Back-End Skills**: Node.js
+- **Frameworks**: Express
 
 ## 📖Education 
 
