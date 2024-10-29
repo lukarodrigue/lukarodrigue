@@ -10,10 +10,18 @@ I specialize in creating dynamic and visually appealing web applications. My mai
 
 ## ⌨️Skills
 
-- **Front-End Development**: JavaScript, HTML, CSS
-- **Version Control**: Git, GitHub
-- **Back-End**: Node.js, SQLite
-- **Frameworks**: Express
+🔍 Frontend:
+React 
+JavaScript, HTML e CSS 
+Vite 
+
+⚙️ Backend:
+Node.js 
+Express 
+
+📂 Versionamento de Código:
+Git e GitHub 
+
 
 ## 📖Education 
 
