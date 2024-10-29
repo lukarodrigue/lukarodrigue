@@ -4,9 +4,8 @@
 
 Welcome to my GitHub profile! My name is Luka Rodrigues Gonçalves, and I am a Front-End Developer . I am 23 years old 
 
-## 🙋🏻‍♂️About Me
-
-I specialize in creating dynamic and visually appealing web applications. My main programming language is JavaScript, and I have extensive experience with HTML and CSS for text markup and styling. I am also proficient in version control using Git and GitHub.
+⚡ About Me
+I'm a Fullstack Developer focused on building complete and efficient web applications. I began my coding journey in late 2023 and have since been improving my skills with both frontend and backend technologies.
 
 ## ⌨️Skills
 
@@ -19,7 +18,7 @@ Vite
 Node.js 
 Express 
 
-📂 Versionamento de Código:
+📂 Version Control:
 Git e GitHub 
 
 
