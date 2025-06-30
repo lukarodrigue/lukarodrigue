@@ -1,6 +1,6 @@
 ## 📌Hi There, I'am Luka Rodrigues Gonçalves
 
-Welcome to my GitHub profile! My name is Luka Rodrigues Gonçalves, and I am a Front-End Developer . I am 24 years old
+Welcome to my GitHub profile! My name is Luka Rodrigues Gonçalves, and I am a Full-Stack Developer . I am 24 years old
 
 ⚡ About Me
 I am a Fullstack Developer focused on building complete and efficient web applications. I started my development journey in late 2023 and since then I have been improving my skills with front-end and back-end technologies.
