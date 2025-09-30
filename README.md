@@ -1,80 +1,86 @@
-## 📌Hi There, I'am Luka Rodrigues Gonçalves
-
-Welcome to my GitHub profile! My name is Luka Rodrigues Gonçalves, and I am a Full-Stack Developer . I am 24 years old
-
-⚡ About Me
-I am a Fullstack Developer focused on building complete and efficient web applications. I started my development journey in late 2023 and since then I have been improving my skills with front-end and back-end technologies.
----
-
-### ⌨️Skills
-
-## 🔍 Frontend:
-
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
-  <div/>
-
-## ⚙️ Backend:
-
-  <div>
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
-  <div/>
-
-## 📂 Version Control:
-
-  <div>
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
-  </div>
-
----
-
-## 📖Education
-
-- **Universidade Anhanguera** - [Analise e Desenvolvimentos de Sistemas]
-- **Rocketseat** - [Explore - Full-Stack]
-
-## 🖥️Projects
-
-### The projects are within my profile
-
-## 📱Contact
-
-If you'd like to connect or have any questions, please feel free to reach out:
-
-###
-
-<div align="left">
+<div align="center">
   
+# 👋 Olá, eu sou o Luka Rodrigues Gonçalves!
+  
+### Desenvolvedor de Software | Foco em Backend com experiência em Frontend
+
 </div>
- 
-  <a href="https://www.linkedin.com/in/luka-rodrigues-goncalves-3357512b4/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/_lukarod/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:lukarodrigues25@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  
----
 
-## 📁Get in Touch
+Sou um desenvolvedor apaixonado por tecnologia e pela arte de resolver problemas através do código. Iniciei minha jornada no final de 2023 e, desde então, venho me dedicando a construir aplicações robustas e eficientes, mergulhando nos ecossistemas **Java** e **Node.js (Express)** **JavaScript**  **TypeScript**.
 
-I am always open to collaborating on interesting projects and learning new technologies. Let’s connect and create something amazing!
+Meu objetivo é criar soluções que não apenas funcionem bem, mas que também sejam bem estruturadas e escaláveis. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades.
 
 ---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,ts,react,html,css,tailwind,postgres,docker,git" />
+  </a>
+</div>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/lukarodrigue">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukarodrigue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukarodrigue&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns projetos que me orgulho de ter desenvolvido. Para ver todos, explore meus repositórios!
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>API de um Cardapio Digital (Node.js & Express)</h3>
+      <p>O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.</p>
+      <p>
+        <a href="https://github.com/lukarodrigue/foodExploreApi"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>API de uso interno de um lava-rapido (Node.js & Express)</h3>
+      <p>Sistema backend desenvolvido em Node.js para gerenciamento de agendamentos em um lava-rápido. O projeto implementa autenticação JWT, controle de usuários e gerenciamento de serviços utilizando SQLite como banco de dados. (Boot, Data, Security).</p>
+      <p>
+        <a href="https://github.com/lukarodrigue/BackLavaRapido"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3>Front-End - FoodExplorer (React | Axios | Swiper | ViteJS)</h3>
+      <p>O front-end do projeto, responsável pela interface do usuário, FoodExplorer.</p>
+      <p>
+        <a href="https://github.com/lukarodrigue/foodexplorer"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>E-Task projeto voltando para React Components (React)</h3>
+      <p>E-tasks é um projeto que foi desenvolvido exclusivamente para treinarmos responsividade com styled-components.</p>
+      <p>
+        <a href="https://github.com/lukarodrigue/explorer-e-tasks"><strong>Ver Repositório →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Onde me Encontrar
+
+Estou sempre aberto a colaborar em projetos interessantes e aprender novas tecnologias. Vamos nos conectar!
+
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/luka-rodrigues-goncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lukarodrigues25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
