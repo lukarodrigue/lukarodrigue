@@ -13,8 +13,6 @@ Meu objetivo é criar soluções que não apenas funcionem bem, mas que também 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 🧰 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
