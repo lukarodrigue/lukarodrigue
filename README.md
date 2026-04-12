@@ -10,10 +10,6 @@ Sou um desenvolvedor apaixonado por tecnologia e pela arte de resolver problemas
 
 Meu objetivo é criar soluções que não apenas funcionem bem, mas que também sejam bem estruturadas e escaláveis. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 🧰 Tecnologias e Ferramentas
 
