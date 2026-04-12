@@ -1,14 +1,15 @@
 <div align="center">
   
-# 👋 Olá, eu sou o Luka Rodrigues Gonçalves!
+# 👋 Bem vindo ao meu Portifólio
   
-### Desenvolvedor de Software | Foco em Backend com experiência em Frontend
+### Desenvolvedor de Software
 
 </div>
 
-Sou um desenvolvedor apaixonado por tecnologia e pela arte de resolver problemas através do código. Iniciei minha jornada no final de 2023 e, desde então, venho me dedicando a construir aplicações robustas e eficientes, mergulhando nos ecossistemas **Java** e **Node.js (Express)** **JavaScript**  **TypeScript**.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenharia de Software (3º semestre). Tenho 26 anos e venho construindo minha carreira na área de desenvolvimento desde 2023.
 
-Meu objetivo é criar soluções que não apenas funcionem bem, mas que também sejam bem estruturadas e escaláveis. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades.
+Tenho como principal objetivo desenvolver aplicações robustas, bem estruturadas e escaláveis, sempre buscando boas práticas, organização de código e performance.
+
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 🧰 Tecnologias e Ferramentas
