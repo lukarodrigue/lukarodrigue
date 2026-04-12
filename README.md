@@ -35,17 +35,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/lukarodrigue">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukarodrigue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukarodrigue&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 Aqui estão alguns projetos que me orgulho de ter desenvolvido. Para ver todos, explore meus repositórios!
