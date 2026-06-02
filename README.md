@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Bem vindo ao meu Portifólio
+# Bem vindo ao meu Portifólio
   
 ### Desenvolvedor de Software
 
@@ -12,7 +12,7 @@ Tenho como principal objetivo desenvolver aplicações robustas, bem estruturada
 
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -30,48 +30,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns projetos que me orgulho de ter desenvolvido. Para ver todos, explore meus repositórios!
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>API de um Cardapio Digital (Node.js & Express)</h3>
-      <p>O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.</p>
-      <p>
-        <a href="https://github.com/lukarodrigue/foodExploreApi"><strong>Ver Repositório →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>API de uso interno de um lava-rapido (Node.js & Express)</h3>
-      <p>Sistema backend desenvolvido em Node.js para gerenciamento de agendamentos em um lava-rápido. O projeto implementa autenticação JWT, controle de usuários e gerenciamento de serviços utilizando SQLite como banco de dados. (Boot, Data, Security).</p>
-      <p>
-        <a href="https://github.com/lukarodrigue/BackLavaRapido"><strong>Ver Repositório →</strong></a>
-      </p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3>Front-End - FoodExplorer (React | Axios | Swiper | ViteJS)</h3>
-      <p>O front-end do projeto, responsável pela interface do usuário, FoodExplorer.</p>
-      <p>
-        <a href="https://github.com/lukarodrigue/foodexplorer"><strong>Ver Repositório →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>E-Task projeto voltando para React Components (React)</h3>
-      <p>E-tasks é um projeto que foi desenvolvido exclusivamente para treinarmos responsividade com styled-components.</p>
-      <p>
-        <a href="https://github.com/lukarodrigue/explorer-e-tasks"><strong>Ver Repositório →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Onde me Encontrar
+## Onde me Encontrar
 
 Estou sempre aberto a colaborar em projetos interessantes e aprender novas tecnologias. Vamos nos conectar!
 
