@@ -20,16 +20,10 @@ Trabalho com arquitetura limpa, autenticação JWT, containerização com Docker
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## Estatísticas
 
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [controle-demanda-api](https://github.com/lukarodrigue/controle-demanda-api) | API para gerenciamento de demandas com autenticação e controle por perfil | TypeScript, Node.js, Docker |
-| [BackLavaRapido](https://github.com/lukarodrigue/BackLavaRapido) | Sistema de agendamento para lava-rápido com JWT e controle de serviços | Node.js, Express, SQLite |
-| [foodExploreApi](https://github.com/lukarodrigue/foodExploreApi) | API de cardápio digital com upload de imagem e autenticação por perfil | Node.js, Express, SQLite |
-| [foodexplorer](https://github.com/lukarodrigue/foodexplorer) | Frontend do Food Explorer com listagem, pedidos e painel admin | React, Vite, Styled Components |
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarodrigue&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukarodrigue&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## Contato
