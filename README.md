@@ -22,8 +22,7 @@ Trabalho com arquitetura limpa, autenticação JWT, containerização com Docker
 ---
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarodrigue&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukarodrigue&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=lukarodrigue&theme=dark&hide_border=true)
 ---
 
 ## Contato
